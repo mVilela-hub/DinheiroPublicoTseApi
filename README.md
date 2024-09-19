@@ -1,3 +1,5 @@
+Realizei uma arquitetura orientadas a Dados bem simples e com cache para otimização
+
 Aplicação de Análise de Gastos Públicos a partir de Dados do TSE
 Esta aplicação tem como objetivo processar dados de prestação de contas eleitorais fornecidos pelo Tribunal Superior Eleitoral (TSE), especificamente os disponíveis no seguinte site:
 
