@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\tserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\tserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\itserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\itserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\baserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\baserepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5F4EC-4C0E-42BF-BF35-FB03FCBAFD0A}|DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\dinheiropublicopolitico.api\\controllers\\dinheiropublicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5F4EC-4C0E-42BF-BF35-FB03FCBAFD0A}|DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API.csproj|solutionrelative:dinheiropublicopolitico.api\\controllers\\dinheiropublicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\dtos\\enumfontereceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\dtos\\enumfontereceita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\dtos\\receitascandidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\dtos\\receitascandidatomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\dtos\\receitascandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\dtos\\receitascandidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\dtos\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\dtos\\candidato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\tserepositorio\\dtos\\capitaisbrasileiras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E97FAD-D0A0-444E-AD44-F8EEE67FBBC9}|TSERepositorio\\TSERepositorio.csproj|solutionrelative:tserepositorio\\dtos\\capitaisbrasileiras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BE5F4EC-4C0E-42BF-BF35-FB03FCBAFD0A}|DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API.csproj|c:\\users\\matheus vilela\\source\\repos\\dinheiropublicopolitico.api\\dinheiropublicopolitico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BE5F4EC-4C0E-42BF-BF35-FB03FCBAFD0A}|DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API.csproj|solutionrelative:dinheiropublicopolitico.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API\\Program.cs",
+              "RelativeDocumentMoniker": "DinheiroPublicoPolitico.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API\\Program.cs",
+              "RelativeToolTip": "DinheiroPublicoPolitico.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T01:21:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\BaseRepositorio.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\BaseRepositorio.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\BaseRepositorio.cs",
+              "RelativeToolTip": "TSERepositorio\\BaseRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:58:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DinheiroPublicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API\\Controllers\\DinheiroPublicoController.cs",
+              "RelativeDocumentMoniker": "DinheiroPublicoPolitico.API\\Controllers\\DinheiroPublicoController.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\DinheiroPublicoPolitico.API\\Controllers\\DinheiroPublicoController.cs",
+              "RelativeToolTip": "DinheiroPublicoPolitico.API\\Controllers\\DinheiroPublicoController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAASwC8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:52:49.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Candidato.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\Candidato.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\DTOs\\Candidato.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\Candidato.cs",
+              "RelativeToolTip": "TSERepositorio\\DTOs\\Candidato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:42:12.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReceitasCandidato.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\ReceitasCandidato.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\DTOs\\ReceitasCandidato.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\ReceitasCandidato.cs",
+              "RelativeToolTip": "TSERepositorio\\DTOs\\ReceitasCandidato.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:38:47.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITSERepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\ITSERepositorio.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\ITSERepositorio.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\ITSERepositorio.cs",
+              "RelativeToolTip": "TSERepositorio\\ITSERepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:34:40.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TSERepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\TSERepositorio.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\TSERepositorio.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\TSERepositorio.cs",
+              "RelativeToolTip": "TSERepositorio\\TSERepositorio.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAEcAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:34:13.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReceitasCandidatoMap.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\ReceitasCandidatoMap.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\DTOs\\ReceitasCandidatoMap.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\ReceitasCandidatoMap.cs",
+              "RelativeToolTip": "TSERepositorio\\DTOs\\ReceitasCandidatoMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T04:22:00.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CapitaisBrasileiras.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\CapitaisBrasileiras.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\DTOs\\CapitaisBrasileiras.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\CapitaisBrasileiras.cs",
+              "RelativeToolTip": "TSERepositorio\\DTOs\\CapitaisBrasileiras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T05:00:46.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnumFonteReceita.cs",
+              "DocumentMoniker": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\EnumFonteReceita.cs",
+              "RelativeDocumentMoniker": "TSERepositorio\\DTOs\\EnumFonteReceita.cs",
+              "ToolTip": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\DTOs\\EnumFonteReceita.cs",
+              "RelativeToolTip": "TSERepositorio\\DTOs\\EnumFonteReceita.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T07:38:58.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

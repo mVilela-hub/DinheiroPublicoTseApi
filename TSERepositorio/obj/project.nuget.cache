@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lDgBJtVeEfs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Matheus Vilela\\source\\repos\\DinheiroPublicoPolitico.API\\TSERepositorio\\TSERepositorio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Vilela\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Matheus Vilela\\.nuget\\packages\\fastcsvparser\\1.1.1\\fastcsvparser.1.1.1.nupkg.sha512",
+    "C:\\Users\\Matheus Vilela\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Matheus Vilela\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

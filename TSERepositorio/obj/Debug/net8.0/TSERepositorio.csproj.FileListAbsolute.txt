@@ -1,0 +1,12 @@
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\bin\Debug\net8.0\TSERepositorio.deps.json
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\bin\Debug\net8.0\TSERepositorio.dll
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\bin\Debug\net8.0\TSERepositorio.pdb
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.csproj.AssemblyReference.cache
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.AssemblyInfoInputs.cache
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.AssemblyInfo.cs
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.dll
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\refint\TSERepositorio.dll
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\TSERepositorio.pdb
+C:\Users\Matheus Vilela\source\repos\DinheiroPublicoPolitico.API\TSERepositorio\obj\Debug\net8.0\ref\TSERepositorio.dll
